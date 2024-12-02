@@ -40,4 +40,4 @@ If you select all available formats, the output will be saved as merged_files.cs
 * It is recommended that all files have the same number of columns to ensure the output file is consistent and usable.
 
 ## License
-This project is governed by the GNU Affero General Public License v3.0. For comprehensive details, kindly refer to the LICENSE file included with this project.
+This project is governed by the CC BY-NC 4.0 license. For comprehensive details, kindly refer to the LICENSE file included with this project.
